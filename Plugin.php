@@ -1,4 +1,4 @@
-<?php namespace October\Drivers;
+<?php namespace Winter\Drivers;
 
 use System\Classes\PluginBase;
 
@@ -17,9 +17,9 @@ class Plugin extends PluginBase
         return [
             'name'        => 'Drivers',
             'description' => 'Provider of third party drivers',
-            'author'      => 'October',
+            'author'      => 'Winter CMS',
             'icon'        => 'icon-leaf',
-            'homepage'    => 'https://github.com/octoberrain/drivers-plugin'
+            'homepage'    => 'https://github.com/wintercms/wn-drivers-plugin'
         ];
     }
 }

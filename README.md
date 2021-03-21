@@ -1,6 +1,6 @@
 # drivers-plugin
 
-This plugin is required when working with some third party services in OctoberCMS. Provides drivers used by services in Queue, Mail and Storage.
+This plugin is required when working with some third party services in Winter CMS. Provides drivers used by services in Queue, Mail and Storage.
 
 The composer packages introduced by this plugin are listed below:
 
