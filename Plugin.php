@@ -19,7 +19,8 @@ class Plugin extends PluginBase
             'description' => 'Provider of third party drivers',
             'author'      => 'Winter CMS',
             'icon'        => 'icon-leaf',
-            'homepage'    => 'https://github.com/wintercms/wn-drivers-plugin'
+            'homepage'    => 'https://github.com/wintercms/wn-drivers-plugin',
+            'replaces'    => ['October.Drivers' => '<= 1.1.3'],
         ];
     }
 }
