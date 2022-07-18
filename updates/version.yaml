@@ -7,3 +7,4 @@
 2.0.0: Rebrand to Winter.Drivers
 2.0.1: Update Guzzle library to version 7.3
 2.0.2: Bring back support for Guzzle library version 6.3 and above
+3.0.0: Support Winter v1.2+, drop inclusion of AWS drivers (use Winter.DriverAWS instead), drop Rackspace Flysystem driver (no longer supported in Laravel)
